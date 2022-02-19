@@ -1,0 +1,19 @@
+{
+    "version": 2,
+    "settings": {
+        "typography": {
+			"fontFamilies": [
+				{
+					"fontFamily": "\"Montserrat\", sans-serif",
+					"name": "Montserrat",
+					"slug": "montserrat"
+				},
+				{
+					"fontFamily": "\"Zen Kaku Gothic Antique\", sans-serif",
+					"name": "Zen Kaku Gothic Antique",
+					"slug": "zen-kaku-gothic-antique"
+				}
+			]
+        }
+    }
+}

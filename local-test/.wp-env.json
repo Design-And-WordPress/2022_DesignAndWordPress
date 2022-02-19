@@ -1,0 +1,16 @@
+{
+    "core": "https://ja.wordpress.org/latest-ja.zip",
+    "config": {
+		"WP_DEBUG": true,
+		"SCRIPT_DEBUG": true
+	},
+    "port": 8183,
+    "mappings": {
+        "wp-content/themes": "./wp-content/themes"
+    },
+    "env": {
+        "tests": {
+            "port": 8184
+        }
+    }
+}
