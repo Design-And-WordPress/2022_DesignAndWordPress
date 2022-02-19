@@ -4,3 +4,6 @@
 
 # Dependency directories
 node_modules/
+
+# Local config file
+.wp-env.override.json
