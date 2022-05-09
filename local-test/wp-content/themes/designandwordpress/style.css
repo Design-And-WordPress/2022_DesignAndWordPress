@@ -13,9 +13,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: dsgnwp
 */
 
-.wp-block-site-title a {
+/* .wp-block-site-title a {
     color: red;
-}
+} */
+/* 
 .wp-block-site-tagline {
     color: var(--wp--preset--color--blue);
-}
+} */
+
+/* .wp-block-post-title {
+    color:blue;
+} */

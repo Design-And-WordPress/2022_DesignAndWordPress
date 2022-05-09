@@ -1,6 +1,15 @@
 {
     "$schema": "https://raw.githubusercontent.com/WordPress/gutenberg/trunk/schemas/json/theme.json",
     "version": 2,
+    "customTemplates": [
+        {
+            "name": "landing",
+            "title": "ランディングページだよ",
+            "postTypes": [
+                "page"
+            ]
+        }
+    ],
     "settings": {
         "color": {
             "palette": [
@@ -29,7 +38,9 @@
 					"color": "#FF8D7A",
 					"name": "Pink"
 				}            
-            ]
+            ],
+            "link": true,
+            "background": true
         },
         "typography": {
             "fontFamilies": [
